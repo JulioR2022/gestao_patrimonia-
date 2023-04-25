@@ -5,7 +5,7 @@ import java.util.List;
 public class Company extends Interprises{
     private List<Filial> filials;
     private int qtd;
-//teste
+
     public void setQtd(int qtd) {
         this.qtd = qtd;
     }
